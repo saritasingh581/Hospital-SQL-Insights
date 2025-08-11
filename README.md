@@ -45,31 +45,24 @@ This project includes SQL queries that reveal:
  - Least-utilized departments  
  - Monthly expense trends   
 
-🗂️ Repository Contents
-pgsql
-Copy
-Edit
+🗂️ Repository Contents  
+
 📦 hospital-sql-insights/
-├── README.md              -- Project overview and instructions
-├── queries.sql            -- All SQL queries used in analysis
-└── sample_data.csv        -- (Optional) Dummy data for testing
+├── README.md              -- Project overview and instructions  
+├── queries.sql            -- All SQL queries used in analysis  
+└── sample_data.csv        -- (Optional) Dummy data for testing  
+
 ▶️ How to Run
-Import the Patient table into your PostgreSQL database.
 
-Open and run queries from queries.sql.
-
-Review results to explore insights and trends.
+ - Import the Patient table into your PostgreSQL database.  
+ - Open and run queries from queries.sql.  
+ - Review results to explore insights and trends.  
 
 🧠 Who This Is For
 This project is useful for:
 
-Data analysts working in healthcare
-
-SQL learners exploring practical use cases
-
-Hospital management teams seeking data-driven decisions
-
-
-Least-utilized departments
-
-Monthly expense trends
+ - Data analysts working in healthcare  
+ - SQL learners exploring practical use cases  
+ - Hospital management teams seeking data-driven decisions  
+ - Least-utilized departments  
+ - Monthly expense trends  
