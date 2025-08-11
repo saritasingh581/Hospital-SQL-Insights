@@ -1,8 +1,9 @@
-📖 About the Project
-This project explores how structured SQL queries can extract meaningful insights from hospital data — using just one table: Patient. From identifying high-cost departments to understanding patient flow and hospital efficiency, each query provides answers to real-world operational questions in healthcare.
+📖 About the Project  
 
-🎯 What This Project Solves
-Through SQL, the project addresses key business questions such as:  
+This project explores how structured SQL queries can extract meaningful insights from hospital data — using just one table: Patient. From identifying high-cost departments to understanding patient flow and hospital efficiency, each query provides answers to real-world operational questions in healthcare.  
+
+🎯 What This Project Solves  
+Through SQL, the project addresses key business questions such as:   
 
 👥 How many patients are being treated per hospital?  
 🏥 Which departments are the busiest or underutilized?  
