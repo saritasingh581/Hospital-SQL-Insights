@@ -47,8 +47,7 @@ This project includes SQL queries that reveal:
 
 🗂️ Repository Contents  
 
-📦 hospital-sql-insights/  
-
+📦 hospital-sql-insights/    
 ├── README.md              -- Project overview and instructions  
 ├── queries.sql            -- All SQL queries used in analysis  
 └── sample_data.csv        -- (Optional) Dummy data for testing  
