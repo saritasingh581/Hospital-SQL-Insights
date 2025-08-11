@@ -32,23 +32,18 @@ The dataset consists of the following fields:
 | `total_expense`  | Total medical expense per patient    |
 
 📊 Insights Extracted  
-This project includes SQL queries that reveal:    
+This project includes SQL queries that reveal:      
 
- Total number of patients by hospital
-
-Average number of doctors per hospital
-
-Top 3 departments by patient volume
-
-Hospital with the highest total medical expenditure
-
-Average daily cost per hospital
-
-Patients with the longest stays
-
-Distribution of patients by city
-
-Average stay duration by department (efficiency)
+ - Total number of patients by hospital
+ - Average number of doctors per hospital  
+ - Top 3 departments by patient volume  
+ - Hospital with the highest total medical expenditure  
+ - Average daily cost per hospital  
+ - Patients with the longest stays  
+ - Distribution of patients by city  
+ - Average stay duration by department (efficiency)
+ - Least-utilized departments  
+ - Monthly expense trends   
 
 🗂️ Repository Contents
 pgsql
