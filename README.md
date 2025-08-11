@@ -58,8 +58,8 @@ This project includes SQL queries that reveal:
  - Open and run queries from queries.sql.  
  - Review results to explore insights and trends.  
 
-🧠 Who This Is For
-This project is useful for:
+🧠 Who This Is For  
+This project is useful for:  
 
  - Data analysts working in healthcare  
  - SQL learners exploring practical use cases  
