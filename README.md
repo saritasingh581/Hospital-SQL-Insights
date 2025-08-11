@@ -20,15 +20,16 @@ Through SQL, the project addresses key business questions such as:
 📋 Patient Table Schema  
 The dataset consists of the following fields:  
 
-Column Name  	           Description  
-patient_id  	            Unique identifier for each patient  
-hospital_name            Name of the hospital  
-city  	                  Hospital's location  
-department  	            Department where patient was treated  
-doctor_count             Number of doctors available  
-admission_date        	  Date of patient admission    
-discharge_date  	        Date of discharge  
-total_expense  	         Total medical expense per patient  
+| Column Name      | Description                          |
+| ---------------- | ------------------------------------ |
+| `patient_id`     | Unique identifier for each patient   |
+| `hospital_name`  | Name of the hospital                 |
+| `city`           | Hospital's location                  |
+| `department`     | Department where patient was treated |
+| `doctor_count`   | Number of doctors available          |
+| `admission_date` | Date of patient admission            |
+| `discharge_date` | Date of discharge                    |
+| `total_expense`  | Total medical expense per patient    |
 
 📊 Insights Extracted  
 This project includes SQL queries that reveal:    
